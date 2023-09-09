@@ -20,8 +20,8 @@
 ### Steps
 - Clone this repository:
   ```
-  git clone https://github.com/yourusername/your-dotnet-api.git
-  cd your-dotnet-api
+  git clone https://github.com/H4r0l/Dotnet-API
+  cd Dotnet-API
 
   ```
 - Build and run the project:
