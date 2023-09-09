@@ -1,0 +1,5 @@
+#attempt
+GET http://localhost:5133/weatherforecast
+
+###
+GET http://localhost:5133/custom
